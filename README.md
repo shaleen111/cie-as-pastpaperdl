@@ -1,2 +1,2 @@
 # cie-as-pastpaperdl
-Utility to automatically downnload CIE A-Level Past Papers as well as marking schemes.
+Utility to automatically download CIE A-Level Past Papers as well as marking schemes.
